@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6C63FF&height=220&section=header&text=MANIKANTA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20GenAI%20Explorer&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6C63FF&height=220&section=header&text=MANIKANTA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Chennai&descSize=18&descAlignY=55&descAlign=50"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%94%A5+Building+Intelligent+Systems+with+AI;%F0%9F%9A%80+From+Neural+Nets+to+Production+APIs;%F0%9F%A7%A0+LangChain+%7C+RAG+%7C+AI+Agents+%7C+Deep+Learning" alt="Typing SVG" /></a>
@@ -9,6 +9,9 @@
 <!-- PROFILE BADGES -->
 <br/>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=MANIKANTA9799&label=Profile%20Views&color=6C63FF&style=for-the-badge)](https://github.com/MANIKANTA9799)
+[![GitHub followers](https://img.shields.io/github/followers/MANIKANTA9799?label=Followers&style=for-the-badge&color=6C63FF&labelColor=0d1117)](https://github.com/MANIKANTA9799?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/MANIKANTA9799?label=Stars&style=for-the-badge&color=6C63FF&labelColor=0d1117)](https://github.com/MANIKANTA9799?tab=stars)
 
 </div>
 
@@ -18,9 +21,8 @@
 
 ```yaml
 name: Manikanta
-role: AI Engineer & Full-Stack Developer
 education: B.Tech Student
-location: India 🇮🇳
+location: Chennai, India 🇮🇳
 
 current_focus:
   - 🔬 Generative AI & LLM Applications
@@ -52,9 +54,7 @@ philosophy: "Learn by building. Stay curious. Ship fast."
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 </p>
 
 ### 🌐 Web Development
@@ -72,7 +72,7 @@ philosophy: "Learn by building. Stay curious. Ship fast."
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ### 🧰 Tools & Platforms
@@ -80,7 +80,6 @@ philosophy: "Learn by building. Stay curious. Ship fast."
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
@@ -171,7 +170,7 @@ philosophy: "Learn by building. Stay curious. Ship fast."
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.shion.dev/api?username=MANIKANTA9799&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=MANIKANTA9799&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MANIKANTA9799&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=555555" />
 
 <br/>
 <br/>
@@ -190,33 +189,7 @@ philosophy: "Learn by building. Stay curious. Ship fast."
 
 </div>
 
-<br/>
 
-<!-- CONTRIBUTION SNAKE -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MANIKANTA9799/MANIKANTA9799/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MANIKANTA9799/MANIKANTA9799/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MANIKANTA9799/MANIKANTA9799/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- TROPHIES -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=MANIKANTA9799&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
-
-</div>
-
-<br/>
 
 <!-- QUOTE -->
 
