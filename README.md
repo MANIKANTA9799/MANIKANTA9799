@@ -92,12 +92,12 @@ philosophy: "Learn by building. Stay curious. Ship fast."
 <tr>
 <td width="50%">
 
-<h3 align="center">🚗 Vehicle Insurance Prediction</h3>
+<h3 align="center">🚗 Vehicle Insurance MLOps Pipeline</h3>
 
 <div align="center">
 
 <a href="https://github.com/MANIKANTA9799/Vehicle_insurance_domain" target="_blank">
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=MANIKANTA9799&repo=Vehicle_insurance_domain&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="100%"/>
+<img src="https://img.shields.io/badge/🚗_Vehicle_Insurance_MLOps-0d1117?style=for-the-badge&logoColor=white" width="100%"/>
 </a>
 
 <br/>
@@ -105,13 +105,15 @@ philosophy: "Learn by building. Stay curious. Ship fast."
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
-<p><strong>🏭 Industry-Grade ML Pipeline</strong></p>
-<p><em>End-to-end machine learning system for predicting vehicle insurance cross-sell opportunities. Features modular architecture, automated data pipelines, model training & evaluation workflows, and production-ready deployment with Docker & FastAPI.</em></p>
+<p><strong>⚙️ End-to-End MLOps Pipeline</strong></p>
+<p><em>Production-grade ML system covering the full lifecycle — data ingestion from MongoDB Atlas, validation, transformation, model training, evaluation, and deployment on AWS (S3 + EC2 + ECR). Fully automated CI/CD with Docker & GitHub Actions, serving predictions via a REST API.</em></p>
 
 <a href="https://github.com/MANIKANTA9799/Vehicle_insurance_domain">
 <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
@@ -122,26 +124,27 @@ philosophy: "Learn by building. Stay curious. Ship fast."
 </td>
 <td width="50%">
 
-<h3 align="center">✈️ TravelSafe</h3>
+<h3 align="center">🛡️ TravelSafe</h3>
 
 <div align="center">
 
 <a href="https://github.com/MANIKANTA9799/TravelSafe" target="_blank">
-<img src="https://github-readme-stats.shion.dev/api/pin/?username=MANIKANTA9799&repo=TravelSafe&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" width="100%"/>
+<img src="https://img.shields.io/badge/🛡️_TravelSafe-0d1117?style=for-the-badge&logoColor=white" width="100%"/>
 </a>
 
 <br/>
 <br/>
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-FF6F61?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 </p>
 
-<p><strong>🛡️ AI-Powered Travel Safety Platform</strong></p>
-<p><em>Intelligent travel companion that leverages AI & Generative AI to provide real-time safety insights, risk assessments, and personalized travel recommendations. Built with modern AI stack including LLMs and RAG architecture.</em></p>
+<p><strong>✈️ AI-Powered Co-Traveler Platform</strong></p>
+<p><em>Full-stack app that matches travelers heading the same way using a dual-engine AI system — rule-based scoring for small platforms and a Gradient Boosted ML model for scale. Features auto group creation, real-time WebSocket chat, trust scoring, and JWT-secured APIs.</em></p>
 
 <a href="https://github.com/MANIKANTA9799/TravelSafe">
 <img src="https://img.shields.io/badge/View_Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
