@@ -1,17 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6C63FF&height=220&section=header&text=MANIKANTA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Chennai&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6C63FF&height=220&section=header&text=MANIKANTA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20GenAI%20Enthusiast&descSize=18&descAlignY=55&descAlign=50"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%F0%9F%94%A5+Building+Intelligent+Systems+with+AI;%F0%9F%9A%80+From+Neural+Nets+to+Production+APIs;%F0%9F%A7%A0+LangChain+%7C+RAG+%7C+AI+Agents+%7C+Deep+Learning" alt="Typing SVG" /></a>
 
-<!-- PROFILE BADGES -->
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=MANIKANTA9799&label=Profile%20Views&color=6C63FF&style=for-the-badge)](https://github.com/MANIKANTA9799)
-[![GitHub followers](https://img.shields.io/github/followers/MANIKANTA9799?label=Followers&style=for-the-badge&color=6C63FF&labelColor=0d1117)](https://github.com/MANIKANTA9799?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/MANIKANTA9799?label=Stars&style=for-the-badge&color=6C63FF&labelColor=0d1117)](https://github.com/MANIKANTA9799?tab=stars)
 
 </div>
 
@@ -22,7 +16,7 @@
 ```yaml
 name: Manikanta
 education: B.Tech Student
-location: Chennai, India 🇮🇳
+location: India 🇮🇳
 
 current_focus:
   - 🔬 Generative AI & LLM Applications
