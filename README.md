@@ -9,9 +9,6 @@
 <!-- PROFILE BADGES -->
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MANIKANTA9799&label=Profile%20Views&color=6C63FF&style=for-the-badge)](https://github.com/MANIKANTA9799)
-[![GitHub followers](https://img.shields.io/github/followers/MANIKANTA9799?label=Followers&style=for-the-badge&color=6C63FF&labelColor=0d1117)](https://github.com/MANIKANTA9799?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/MANIKANTA9799?label=Stars&style=for-the-badge&color=6C63FF&labelColor=0d1117)](https://github.com/MANIKANTA9799?tab=stars)
 
 </div>
 
